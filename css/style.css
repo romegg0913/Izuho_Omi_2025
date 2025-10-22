@@ -104,9 +104,9 @@ img{
 }
 .sns-item2{
    width: 100%;
+   max-width: 1200px;
    margin-right: auto;
    margin-left: auto;
-   margin-bottom: 10;
    display: flex;
 }
 /*フッター*/
