@@ -110,7 +110,7 @@ img{
 }
 .sns-item3{
    margin: 0 auto;
-   display: inline-block;
+   display: block;
 }
 
 /*フッター*/
