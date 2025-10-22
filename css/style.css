@@ -42,7 +42,6 @@ img{
 }
 .cover-home{
    background-image: url(../images/cover-home-s.svg);
-   background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
 }
