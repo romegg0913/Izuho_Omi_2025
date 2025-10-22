@@ -108,6 +108,10 @@ img{
    margin: 10px 10px 0 55px;
    display: flex;
 }
+.sns-item3{
+   margin: 0 auto;
+}
+
 /*フッター*/
 .footer{
    background-size: cover;
