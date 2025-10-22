@@ -112,6 +112,10 @@ img{
    display: block;
 }
 
+.break-url {
+  word-break: break-all;
+}
+
 /*フッター*/
 .footer{
    background-size: cover;
