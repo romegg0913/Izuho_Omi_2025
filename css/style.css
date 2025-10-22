@@ -41,7 +41,7 @@ img{
    background-position: center top;
 }
 .cover-home{
-   background-image: url(../images/cover-home-s.svg) no-repeat 0/cover;
+   background-image: url(../images/cover-home-s.svg)/cover;
 }
 
 /*ヘッダー*/
