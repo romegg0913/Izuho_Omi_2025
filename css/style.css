@@ -6,7 +6,7 @@ html{
 }
 body{
    font-family:"Hiragino Gothic ProN","Hiragino Sans","BIZ UDPGothic",sans-serif;
-   line-height: 1.7;
+   line-height: 2;
    color: #432;
 }
 a{
@@ -41,7 +41,7 @@ img{
    padding-top: 50px;
 }
 .logo{
-   width: 600px;
+   width: 450px;
 }
 .main-nav{
    display: flex;
@@ -79,23 +79,31 @@ img{
    text-align: center;
 }
 .item img{
-   width: 30%;
+   width: 50%;
    height: auto;
-   aspect-ratio: 1/1;
+   aspect-ratio: 1.2/1.5;
    object-fit: cover;
-   border-radius: 16px;
+   border-radius: 14px;
 }
 .item p{
-   font-size: 12px;
+   font-size: 18px;
 }
 
 /*リンク*/
 .sns-item{
    text-align: center;
+   font-size: 22px;
+}
+.sns-item2{
+   text-align: left;
+   font-size: 20px;
+   margin: 10px 10px 0 55px;
+   display: inline-block;
 }
 
 /*フッター*/
 .footer{
    background-size: cover;
    background-position: center bottom;
+   clear: both; 
 }
