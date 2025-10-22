@@ -25,7 +25,7 @@ img{
   max-width: 960px;
   margin-right: auto;
   margin-left: auto;
-  display: grid;
+  display: block;
 }
 
 
