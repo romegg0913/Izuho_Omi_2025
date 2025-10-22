@@ -19,13 +19,13 @@ img{
 /* レイアウト*/
 .align-center{
    text-align: center;
-   display: grid;
 }
 .container{
   width: 100%;
   max-width: 960px;
   margin-right: auto;
   margin-left: auto;
+  display: grid;
 }
 
 
