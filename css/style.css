@@ -94,7 +94,11 @@ img{
    text-align: center;
    font-size: 22px;
 }
-
+.sns-item2{
+   max-width: 750px;
+   padding: 15px;
+   margin: 30px auto 40px;
+}
 /*フッター*/
 .footer{
    background-size: cover;
