@@ -103,11 +103,11 @@ img{
    font-size: 22px;
 }
 .sns-item2{
-   width: 100%;
-   max-width: 1200px;
-   margin-right: auto;
-   margin-left: auto;
-   display: flex;
+   text-align: left;
+   font-size: 20px;
+   margin: 10px 10px 0 55px;
+   display: inline-block;
+}
 }
 /*フッター*/
 .footer{
