@@ -8,6 +8,8 @@ body{
    font-family:"Hiragino Gothic ProN","Hiragino Sans","BIZ UDPGothic",sans-serif;
    line-height: 2;
    color: #432;
+   margin: 0;
+}
 }
 a{
    text-decoration: none;
