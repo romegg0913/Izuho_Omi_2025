@@ -92,14 +92,14 @@ img{
 .item img{
    width: 50%;
    height: auto;
-   aspect-ratio: 2/1;
+   aspect-ratio: 1.5/1;
    object-fit: cover;
    border-radius: 14px;
 }
 .item2 imag{
    width: 50%;
    height: auto;
-   aspect-ratio: 1/2;
+   aspect-ratio: 1/1.5;
    object-fit: cover;
    border-radius: 14px;
 }
