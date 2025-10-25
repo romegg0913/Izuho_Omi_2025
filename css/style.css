@@ -89,14 +89,14 @@ img{
    grid-template-columns: repeat(2, 1fr);
    text-align: center;
 }
-.item img{
+.item {
    width: 50%;
    height: auto;
    aspect-ratio: 1.5/1;
    object-fit: cover;
    border-radius: 14px;
 }
-.item2 img{
+.item2 {
    width: 50%;
    height: auto;
    aspect-ratio: 1/1.5;
