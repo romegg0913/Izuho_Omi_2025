@@ -97,6 +97,7 @@ img{
    aspect-ratio: 1.5/1;
    object-fit: cover;
    border-radius: 14px;
+   margin-bottom: 15px;
 }
 
 .item2 img{
@@ -105,6 +106,7 @@ img{
    aspect-ratio: 1/1.5;
    object-fit: cover;
    border-radius: 14px;
+   margin-bottom: 15px;
 }
 
 .item p{
