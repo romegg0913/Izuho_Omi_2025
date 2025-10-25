@@ -91,14 +91,14 @@ img{
    text-align: center;
 }
 .item img{
-   width: 70%;
+   width: 50%;
    height: auto;
    aspect-ratio: 1.5/1;
    object-fit: cover;
    border-radius: 14px;
 }
 .item2 img{
-   width: 70%;
+   width: 50%;
    height: auto;
    aspect-ratio: 1/1.5;
    object-fit: cover;
