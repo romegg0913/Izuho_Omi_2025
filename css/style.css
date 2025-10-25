@@ -92,10 +92,18 @@ img{
 .item img{
    width: 50%;
    height: auto;
-   aspect-ratio: 1.2/1.5;
+   aspect-ratio: 2/1;
    object-fit: cover;
    border-radius: 14px;
 }
+.item2 imag{
+   width: 50%;
+   height: auto;
+   aspect-ratio: 1/2;
+   object-fit: cover;
+   border-radius: 14px;
+}
+
 .item p{
    font-size: 18px;
 }
