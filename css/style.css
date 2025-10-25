@@ -14,7 +14,7 @@ a{
    text-decoration: none;
 }
 img{
-   max-width: 100%;
+   max-width: 70%;
 }
 
 /* レイアウト*/
@@ -83,12 +83,14 @@ img{
    margin: 0 auto;
    display: block;
 }
+
 .grid{
    display: grid;
    gap: 10px 5px;
    grid-template-columns: repeat(2, 1fr);
    text-align: center;
 }
+
 .item img{
    width: 50%;
    height: auto;
@@ -96,6 +98,7 @@ img{
    object-fit: cover;
    border-radius: 14px;
 }
+
 .item2 img{
    width: 35%;
    height: auto;
