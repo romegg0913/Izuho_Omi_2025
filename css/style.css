@@ -103,7 +103,7 @@ img{
 .item2 img{
    width: 35%;
    height: auto;
-   aspect-ratio: 1/1.5;
+   aspect-ratio: 1/1.4;
    object-fit: cover;
    border-radius: 14px;
    margin-bottom: 15px;
