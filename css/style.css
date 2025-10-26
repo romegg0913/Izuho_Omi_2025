@@ -92,7 +92,7 @@ img{
 }
 
 .item img{
-   width: 50%;
+   width: 70%;
    height: auto;
    aspect-ratio: 1.5/1;
    object-fit: cover;
@@ -101,7 +101,7 @@ img{
 }
 
 .item2 img{
-   width: 35%;
+   width: 55%;
    height: auto;
    aspect-ratio: 1/1.4;
    object-fit: cover;
